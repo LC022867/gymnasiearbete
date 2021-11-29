@@ -21,25 +21,24 @@ body {
     left: 5%;
 }
 
-.search-box:hover > .search-btn {
+.ylw-bar .search-box:hover > .search-btn {
     background: white;
 }
-.search-box {
+.ylw-bar .search-box {
     position: relative;
-    top: 2.1%;
+    bottom: 13px;
     float: right;
-    right: 2%;
     transform: translate(0%, -95%);
     background: #2f3640;
     border-radius: 40px;
     height: 40px;
 }
-.search-box:hover > .search-txt {
+.ylw-bar .search-box:hover > .search-txt {
     width: 200px;
     padding: 0 6px;
 }
 
-.search-btn {
+.ylw-bar .search-btn {
     color: #e84118;
     float: right;
     width: 40px;
@@ -52,7 +51,7 @@ body {
     transition: 0.4s;
 }
 
-.search-txt {
+.ylw-bar .search-txt {
     border: none;
     background: none;
     outline: none;
@@ -73,17 +72,41 @@ body {
 
 /* Page Number  */
 
-.pageNumber {
+.ylw-bar .pageNumber {
     display: flex;
     justify-content: space-around;
     position: relative;
-    top: 3px;
+    bottom: 19px;
     left: 250px;
-    width: 8%;
+    width: 12%;
 }
 
-.pg-posit {
+.ylw-bar .pageNumber a {
+    color: black;
+}
+
+.ylw-bar .pg-posit {
     background: #00a651;
     padding: 2px 5px;
     display: flex;
+}
+
+.backgrnd-series {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 80%;
+    height: 400px;
+    margin: inherit;
+    background-color: #575757;
+}
+
+.backgrnd-series .serie {
+    width: 100px;
+    height: 150px;
+    background-color: #C4C4C4;
+    
+}
+
+section {
+    height: 1200px;
 }
