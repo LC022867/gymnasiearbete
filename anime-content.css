@@ -1,0 +1,90 @@
+body {
+    background-color: #1b1b1b;
+}
+
+/* MILKFLIX INNEHÅLL */
+.show-backgrnd {
+    background-color: #282828;
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    height: 500px;
+}
+
+.ylw-bar {
+    background-color: #ffc119;
+    width: 90%;
+    height: 40px;
+    border-radius: 4px;
+    position: relative;
+    top: 7%;
+    left: 5%;
+}
+
+.search-box:hover > .search-btn{
+    background: white;
+}
+.search-box {
+    position: relative;
+    top: 2.1%;
+    float: right;
+    right: 2%;
+    transform: translate(0%, -95%);
+    background: #2f3640;
+    border-radius: 40px;
+    height: 40px;
+}
+.search-box:hover > .search-txt {
+    width: 200px;
+    padding: 0 6px;
+}
+
+.search-btn {
+    color: #e84118;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+}
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+}
+
+.ylw-bar p {
+    font-weight: bold;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+/* Page Number  */
+
+.pageNumber{
+    display: flex;
+    justify-content: space-around;
+    position: relative ;
+    top:3px;
+    left:250px;
+    width: 8%;
+}
+
+.pg-posit {
+    background: #00A651;
+    padding: 2px 5px;
+    display: flex;
+    
+}

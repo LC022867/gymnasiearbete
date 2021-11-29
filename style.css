@@ -1,0 +1,408 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Fira sans", sans-serif;
+}
+
+/***************************NAV BAREN*****************************/
+
+/*Organiserade färg variabel*/
+:root {
+    --dark: #181a22;
+    --orange: #edb725;
+    --white: rgb(207, 201, 201);
+    --green: #00a651;
+}
+
+/*Organiserade färg variabel slut*/
+
+
+nav {
+    background: var(--orange);
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+}
+
+img {
+    width: 40px;
+    margin-top: 15px;
+}
+
+label.logo {
+    line-height: 70px;
+    padding: 0 50px;
+}
+
+nav ul {
+    float: right;
+    margin-right: 70px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: var(--dark);
+    font-size: 16px;
+    font-weight: 550;
+}
+
+/*Blå linjen under nav barens olika namn, samt för den akriva*/
+a.active,
+nav ul a:hover {
+    transition: 0.2s;
+    border-bottom: var(--green) solid 4px;
+}
+
+/*Blå linjen under nav barens olika namn, samt för den akriva slut*/
+
+/*Hamburg färg*/
+.fa-bars {
+    color: white;
+}
+
+/*Hamburgs färg slut*/
+
+.checkbtn {
+    font-size: 25px;
+    float: right;
+    line-height: 70px;
+    margin-right: 60px;
+    cursor: pointer;
+    display: none;
+}
+
+#check {
+    display: none;
+}
+
+/*För mobil eller laptops versions*/
+@media (max-width: 861px) {
+    .checkbtn {
+        display: block;
+    }
+
+    ul {
+        z-index: 10000;
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: var(--orange);
+        top: 50px;
+        left: -100%;
+        text-align: end;
+        transition: 1s all;
+    }
+
+    nav ul li {
+        display: grid;
+        grid-template-rows: 1fr;
+        margin-top: 7%;
+        margin-right: 7%;
+    }
+
+    /*responsive nav*/
+    @media (max-width: 600px) {
+        nav ul li {
+            margin-right: 3%;
+        }
+    }
+
+    nav ul li a {
+        font-size: 16px;
+        margin-right: 5px;
+    }
+
+    /*fixa till navbarens position*/
+    .home {
+        margin-right: 20px;
+    }
+
+    .teams {
+        margin-right: 20px;
+    }
+
+    .tier_list {
+        margin-right: 8px;
+    }
+
+    /*fixa till navbarens position slut*/
+
+    a.active {
+        border-bottom: none;
+    }
+
+    a:active,
+    a:hover {
+        border-bottom: none;
+        color: var(--blue);
+    }
+
+    #check:checked ~ ul {
+        left: -75%;
+        top: 10%;
+    }
+}
+
+/*För mobil eller laptops versions slut*/
+
+/*****************************NAV BAREN SLUT*********************************/
+
+/********************************FOOTER**********************************/
+
+footer {
+    background: var(--orange);
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: var(--white);
+    font-size: 14px;
+}
+
+footer .copyright {
+    width: 14%;
+}
+
+p {
+    color: var(--dark);
+}
+
+footer .copyright .from {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer .copyright p {
+    margin: 20px 0;
+    width: 140%;
+}
+
+footer .privacy {
+    width: 14%;
+}
+
+footer .line1,
+.line2 {
+    width: 5px;
+    height: 5.8em;
+    background-color: black;
+}
+
+footer .line1 {
+    position: relative;
+    top: 0;
+    left: 6%;
+}
+
+footer .line2 {
+    position: relative;
+    top: 0;
+    right: 6%;
+}
+
+footer .icons .icon {
+    margin: 0 10px;
+    font-size: 35px;
+    color: black;
+}
+
+/********************************FOOTER SLUT**********************************/
+
+/*FÖT ALLA SECTIONS*/
+.main-text {
+    width: 100%;
+    height: 35vh;
+    line-height: 45vh;
+}
+
+
+.main-text h1 {
+    color: var(--white);
+    text-align: center;
+    font-size: 20px;
+}
+
+/*FÖT ALLA SECTIONS SLUT*/
+
+/*******************************Laptop version******************************/
+@media (max-width: 990px) {
+    /*NAVBAR*/
+    /*Minska logen*/
+    label.logo {
+        font-size: 18px;
+    }
+
+    /*Minska "Genshin impact Characters News"*/
+    .main-text h1 {
+        font-size: 18px;
+    }
+
+    /*NAVBAR SLUT*/
+
+    /******FOOTER*********/
+    footer .copyright p {
+        margin: 10px 0;
+        font-size: 14px;
+    }
+
+    footer .copyright .from {
+        font-size: 16px;
+    }
+
+    footer .icons .icon {
+        font-size: 30px;
+    }
+
+    /******FOOTER SLUT****/
+}
+
+@media (max-width: 768px) {
+    /******FOOTER*********/
+
+    footer .icons {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 20px;
+        column-gap: 10px;
+    }
+
+    footer .copyright p {
+        font-size: 12px;
+    }
+
+    footer .copyright .from {
+        font-size: 14px;
+    }
+
+    footer .privacy {
+        font-size: 12px;
+    }
+
+    /******FOOTER SLUT****/
+
+    /*SECTION FÖR NEWS*/
+    section {
+        height: 1150px;
+    }
+
+    /*Bilderna ska minskas*/
+    .picNews img {
+        height: 150px;
+        margin-top: 2.5em;
+    }
+
+    .textNews h3 {
+        font-size: 14px;
+    }
+
+    /*button ska vara mindre*/
+    .textNews button {
+        margin-top: 1em;
+        font-size: 10px;
+        width: 60%;
+        padding: 10px 0 20px 0;
+    }
+
+    /*SECTION FÖR NEWS SLUT*/
+}
+
+/*******************************Laptop version SLUT**************************/
+
+/*******************************mobil version**************************/
+/*NAVBAR*/
+/*fixar till nav texterna*/
+@media (max-width: 300px) {
+    nav ul li a {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 470px) {
+    #check:checked ~ ul {
+        left: -67%;
+    }
+
+    nav ul a:hover {
+        margin-left: 20px;
+    }
+
+    /*mindre button och ligger lite mer åt höger*/
+    .checkbtn {
+        font-size: 20px;
+        margin-right: 40px;
+    }
+
+    /*mindre loga*/
+    label.logo {
+        font-size: 14px;
+        padding: 0 10px;
+    }
+
+    /*NAVBAR SLUT*/
+
+    /*FOOTER*/
+    footer {
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    footer .line1,
+    .line2 {
+        width: 5.8em;
+        height: 5px;
+    }
+
+    footer .line1 {
+        position: inherit;
+    }
+
+    footer .line2 {
+        position: inherit;
+    }
+
+    footer .privacy {
+        width: auto;
+    }
+
+    footer .copyright {
+        width: auto;
+    }
+
+    footer .copyright p {
+        width: auto;
+    }
+
+    footer .copyright .from {
+        text-align: center;
+    }
+
+    /*FOOTER SLUT*/
+
+    /*SECTION FÖR NEWS FÖR ALLA*/
+    /*större section för att få plats med bilderna och texterna*/
+    section {
+        height: auto;
+        flex-direction: column;
+    }
+
+    /*Bilderna ska vara responsive*/
+    .picNews img {
+        height: auto;
+        margin-top: 2em;
+    }
+
+    /*SECTION SLUT*/
+}
