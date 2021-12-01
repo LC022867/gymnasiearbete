@@ -32,7 +32,7 @@ function clearList() {
 
 function setNoResults() {
     const item = document.createElement('li');
-item.classList.add('list-group-item');
+    item.classList.add('list-group-item');
     const text = document.TextNode('No results found');
     item.appendChild(text);
     list.appendChild(item);
@@ -41,9 +41,9 @@ item.classList.add('list-group-item');
 function getRelevancy(value, searchTerm) {
     if (value === searchTerm) {
         return 2;
-    } else if (value.startWith(searchTerm)) {
+    } else if (value.startsWith(searchTerm)) {
         return 1;
-    } else if (value.includes(searchTerm)){
+    } else if (value.includes(searchTerm)) {
         return 0;
     }
 }
