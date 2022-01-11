@@ -91,7 +91,7 @@ nav ul a:hover {
         display: block;
     }
 
-    ul {
+    .ul-nav {
         z-index: 10000;
         position: fixed;
         width: 100%;
