@@ -151,3 +151,10 @@ section {
     }
 }
 
+@media (max-width: 877px){
+    .ylw-bar .search-box:hover > .search-txt {
+        width: 130px;
+        padding: 0 6px;
+    }
+}
+
