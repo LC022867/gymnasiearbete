@@ -26,7 +26,7 @@ body {
 }
 .ylw-bar .search-box {
     position: relative;
-    bottom: 13px;
+    bottom: 13.5px;
     float: right;
     transform: translate(0%, -95%);
     background: #2f3640;
