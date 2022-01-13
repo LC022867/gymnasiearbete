@@ -177,7 +177,7 @@ section {
     }
 }
 
-@media (max-width: 500px){
+@media (max-width: 570px){
     .ylw-bar .search-box:hover > .search-txt {
         width: 103px;
         
