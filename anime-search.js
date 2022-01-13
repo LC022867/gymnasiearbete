@@ -30,9 +30,9 @@ const anime = [
     { name: 'sword art online' },/* KLAR */
     { name: 'the god of highschool' },
     { name: 'steins gate' },/* KLAR */
-    { name: 'charlotte' },
+    { name: 'charlotte' },/* KLAR */
     { name: 'dragon ball' },
-    { name: 'dragon ball super' },
+    { name: 'dragon ball super' }, /* BYT ANIME HÄR */
     { name: 'konosuba' },
     { name: 'assassination classroom' },
     { name: 'erased' },
