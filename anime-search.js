@@ -1,52 +1,52 @@
 const anime = [
-    { name: 'attack on titan' },   /* KLAR */
-    { name: 're zero' }, /* KLAR */
-    { name: 'my hero academia' },/* KLAR */
-    { name: 'naruto' },/* KLAR */
-    { name: 'bleach' },/* KLAR */
-    { name: 'seven deadly sins' },/* KLAR */
-    { name: 'vinland saga' },/* KLAR */
-    { name: 'bungou stray dogs' }, /* KLAR */
-    { name: 'shield hero' },/* KLAR */
-    { name: 'demon slayer' },/* KLAR */
-    { name: 'one punch man' },/* KLAR */
-    { name: 'hunter x hunter' },/* KLAR */
-    { name: 'samurai champlo' },/* KLAR */
-    { name: 'one piece' },/* KLAR */
-    { name: 'jojos bizzare adventures' },/* KLAR */
-    { name: 'baki' },/* KLAR */
-    { name: 'jujutsu kaisen' },/* KLAR */
-    { name: 'violet evergarden' },/* KLAR */
-    { name: 'fire force' },/* KLAR */
-    { name: 'tokyo revengers' },/* KLAR */
-    { name: 'twin star exorcist' },/* KLAR */
-    { name: 'fate stay night' },/* KLAR */
-    { name: 'fate unlimited blade works' }, /* BYT ANIME HÄR */
-    { name: 'love is war' },/* KLAR */
-    { name: 'tower of god' },/* KLAR */
-    { name: 'mob psycho' },/* KLAR */
-    { name: 'haikyuu' },/* KLAR */
-    { name: 'promised neverland' },/* KLAR */
-    { name: 'sword art online' },/* KLAR */
-    { name: 'the god of highschool' },
-    { name: 'steins gate' },/* KLAR */
-    { name: 'charlotte' },/* KLAR */
-    { name: 'dragon ball' },
-    { name: 'dragon ball super' }, /* BYT ANIME HÄR */
+    { name: 'attack on titan' },   
+    { name: 're zero' }, 
+    { name: 'my hero academia' },
+    { name: 'naruto' },
+    { name: 'bleach' },
+    { name: 'seven deadly sins' },
+    { name: 'vinland saga' },
+    { name: 'bungou stray dogs' }, 
+    { name: 'shield hero' },
+    { name: 'demon slayer' },
+    { name: 'one punch man' },
+    { name: 'hunter x hunter' },
+    { name: 'samurai champlo' },
+    { name: 'one piece' },
+    { name: 'jojos bizzare adventures' },
+    { name: 'baki' },
+    { name: 'jujutsu kaisen' },
+    { name: 'violet evergarden' },
+    { name: 'fire force' },
+    { name: 'tokyo revengers' },
+    { name: 'twin star exorcist' },
+    { name: 'fate stay night' },
+    { name: 'rent a girlfriend' },
+    { name: 'love is war' },
+    { name: 'tower of god' },
+    { name: 'mob psycho' },
+    { name: 'haikyuu' },
+    { name: 'promised neverland' },
+    { name: 'sword art online' },
+    { name: 'the god of high'},
+    { name: 'steins gate' },
+    { name: 'charlotte' },
+    { name: 'dragon ball z' }, 
+    { name: 'eightysix' }, 
     { name: 'konosuba' },
     { name: 'assassination classroom' },
-    { name: 'erased' },
+    { name: 'erased' }, 
     { name: 'bunny girl senpai' },
-    { name: 'tokyo ghoul' },
-    { name: 'dr stone' },
-    { name: 'nisekoi' },
-    { name: 'seraph of the end' },
-    { name: 'cowboy bebop' },
+    { name: 'tokyo ghoul' }, 
+    { name: 'dr stone' }, 
+    { name: 'nisekoi' }, 
+    { name: 'seraph of the end' }, 
+    { name: 'cowboy bebop'},
     { name: 'death note' },
-    { name: 'vivy' },
-    { name: 'fullmetal alchemist' },
-    { name: 'ragnarok' },
-    { name: 'megalo box' },
+    { name: 'vivy' }, 
+    { name: 'fullmetal alchemist' }, 
+    { name: 'record of ragnarok' },
+    { name: 'megalo box' }, 
 ];
 
 const list = document.getElementById('list');

@@ -92,21 +92,21 @@ body {
     display: flex;
 }
 
-.backgrnd-series {
-    width: 80%;
-    height: 1050px;
-    margin: inherit;
-    background-color: #575757;
-
-}
-
-.backgrnd-series .serie-div {
+.backgrnd-series .serie-div ul {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     gap: 30px;
     justify-items: center;
     margin: 30px;
+}
+
+.backgrnd-series {
+    width: 80%;
+    height: 1050px;
+    margin: inherit;
+    background-color: #575757;
+
 }
 
 .backgrnd-series .serie {
