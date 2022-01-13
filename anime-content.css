@@ -119,6 +119,7 @@ body {
 
 .backgrnd-series a p{
     width: 100%;
+    margin-top: 8px;
     text-align: center;
     color:#ffc119;
 }
@@ -128,6 +129,7 @@ body {
     height: 100%;
     position: relative;
     top: -15px;
+    box-shadow: 1px 1px 4px 2px #1b1b1b;
 }
 
 section {
