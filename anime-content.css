@@ -71,6 +71,9 @@ body {
 }
 
 /* Page Number  */
+.pageNumber .none {
+    visibility: hidden;
+}
 
 .ylw-bar .pageNumber {
     display: flex;
@@ -103,7 +106,7 @@ body {
 
 .backgrnd-series {
     width: 80%;
-    height: 1050px;
+    height: auto;
     margin: inherit;
     background-color: #575757;
 
@@ -148,6 +151,21 @@ section {
     display: flex;
     font-weight: bold;
     text-transform: capitalize;
+}
+
+.intro {
+    width: 75%;
+    margin: auto;
+}
+
+.intro h1 {
+    text-align: center;
+    margin: 3.5rem 0 1.5rem;
+}
+
+.intro p, h3 {
+    color: #f4a14f;
+    margin: 0.5rem 0;
 }
 
 @media (max-width: 877px) {
