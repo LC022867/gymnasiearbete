@@ -95,6 +95,11 @@ body {
     display: flex;
 }
 
+.show-backgrnd  {
+    height:auto;
+}
+
+
 .backgrnd-series .serie-div ul {
     display: flex;
     justify-content: space-around;
@@ -109,6 +114,7 @@ body {
     height: auto;
     margin: inherit;
     background-color: #575757;
+    margin-bottom: 40px;
 
 }
 
@@ -161,6 +167,7 @@ section {
 .intro h1 {
     text-align: center;
     margin: 3.5rem 0 1.5rem;
+    color: rgb(255, 153, 0);
 }
 
 .intro p, h3 {
