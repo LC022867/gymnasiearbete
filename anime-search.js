@@ -24,7 +24,7 @@ const anime = [
     { name: 'rent a girlfriend' },
     { name: 'love is war' },
     { name: 'tower of god' },
-    { name: 'mob psycho' },
+    { name: 'mob psycho 100' },
     { name: 'haikyuu' },
     { name: 'promised neverland' },
     { name: 'sword art online' },
