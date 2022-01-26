@@ -28,10 +28,10 @@ const anime = [
     { name: 'haikyuu' },
     { name: 'promised neverland' },
     { name: 'sword art online' },
-    { name: 'the god of high'},
+    { name: 'the god of high school'},
     { name: 'steins gate' },
     { name: 'charlotte' },
-    { name: 'dragon ball z' }, 
+    { name: 'dragon ball' }, 
     { name: 'eightysix' }, 
     { name: 'konosuba' },
     { name: 'assassination classroom' },
@@ -45,7 +45,7 @@ const anime = [
     { name: 'death note' },
     { name: 'vivy' }, 
     { name: 'fullmetal alchemist' }, 
-    { name: 'record of ragnarok' },
+    { name: 'mushoku tensei' },
     { name: 'megalo box' }, 
 ];
 
