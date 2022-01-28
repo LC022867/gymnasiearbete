@@ -104,3 +104,15 @@ searchInput.addEventListener('input', (event) => {
         clearList();
     }
 })
+
+function openPage(){
+    var searchAction = document.getElementById("search").value;
+
+    if (searchAction === "attack on titan") {
+        window.open("../anime-seasons/attack-on-titan.html", "_self");
+    } else if (searchAction === "baki" || "Baki") {
+        window.open("../anime-seasons/baki.html", "_self");
+    }
+    
+    
+}
