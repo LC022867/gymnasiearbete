@@ -108,9 +108,9 @@ searchInput.addEventListener('input', (event) => {
 function openPage(){
     var searchAction = document.getElementById("search").value;
 
-    if (searchAction === "attack on titan") {
+    if (searchAction.toLowerCase() === "attack on titan") {
         window.open("../anime-seasons/attack-on-titan.html", "_self");
-    } else if (searchAction === "baki" || "Baki") {
+    } else if (searchAction === "baki") {
         window.open("../anime-seasons/baki.html", "_self");
     }
     
