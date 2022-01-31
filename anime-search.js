@@ -110,8 +110,196 @@ function openPage(){
 
     if (searchAction.toLowerCase() === "attack on titan") {
         window.open("../anime-seasons/attack-on-titan.html", "_self");
-    } else if (searchAction === "baki") {
-        window.open("../anime-seasons/baki.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "my hero academia") {
+        window.open("../anime-seasons/my-hero-academia.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "naruto") {
+        window.open("../anime-seasons/naruto.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "bleach") {
+        window.open("https://www4.gogoanime.cm/category/bleach", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "seven deadly sins") {
+        window.open("../anime-seasons/the_seven_deadly_sins", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "vinland saga") {
+        window.open("https://www1.gogoanime.pe/category/vinland-saga", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "bungou stray dogs") {
+        window.open("../anime-seasons/bungou-stray-dogs.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "sheild hero") {
+        window.open("https://www4.gogoanime.cm/category/tate-no-yuusha-no-nariagari", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "demon slayer") {
+        window.open("../anime-seasons/demon_slayer", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "one punch man") {
+        window.open("../anime-seasons/one-punch-man.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "hunter x hunter") {
+        window.open("https://www4.gogoanime.cm/category/hunter-x-hunter", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
+    } else if (searchAction.toLowerCase() === "re zero") {
+        window.open("../anime-seasons/re_zero.html", "_self");
+
+
     }
     
     
