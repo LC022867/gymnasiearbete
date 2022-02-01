@@ -153,19 +153,19 @@ function openPage(){
 
 
     } else if (searchAction.toLowerCase() === "hunter x hunter") {
-        window.open("https://www4.gogoanime.cm/category/hunter-x-hunter", "_self");
+        window.open("https://www1.gogoanime.pe/category/hunter-x-hunter-2011", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "samurai champlo") {
+        window.open("https://www4.gogoanime.cm/category/samurai-champloo", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "one piece") {
+        window.open("https://www4.gogoanime.cm/category/one-piece", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "jojos bizzare adventures") {
+        window.open("../anime-seasons/jojos-bizzare-adventure.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "re zero") {
