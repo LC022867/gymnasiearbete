@@ -288,16 +288,16 @@ function openPage(){
         window.open("https://www1.gogoanime.pe/category/vivy-fluorite-eyes-song", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re ") {
+    } else if (searchAction.toLowerCase() === "fullmetal alchemist") {
         window.open("../anime-seasons/re_zero.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "mushoku tensei") {
+        window.open("https://www1.gogoanime.pe/category/fullmetal-alchemist-brotherhood", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "megalo box") {
+        window.open("../anime-seasons/megalo_box.html", "_self");
 
 
     }
