@@ -140,12 +140,12 @@ function openPage(){
         window.open("../anime-seasons/bungou-stray-dogs.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "sheild hero") {
+    } else if (searchAction.toLowerCase() === "shield hero") {
         window.open("https://www4.gogoanime.cm/category/tate-no-yuusha-no-nariagari", "_self");
 
 
     } else if (searchAction.toLowerCase() === "demon slayer") {
-        window.open("../anime-seasons/demon_slayer", "_self");
+        window.open("../anime-seasons/demon_slayer.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "one punch man") {
