@@ -108,35 +108,35 @@ searchInput.addEventListener('input', (event) => {
 function openPage(){
     var searchAction = document.getElementById("search").value;
 
-    if (searchAction.toLowerCase() === "attack on titan") {
-        window.open("../anime-seasons/attack-on-titan.html", "_self");
+    if (searchAction.toLowerCase() === "spiderman") {
+        window.open("https://ww2.m4ufree.com/watch-t979-spider-man-2002-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
+    } else if (searchAction.toLowerCase() === "intersteller") {
         window.open("../anime-seasons/re_zero.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "my hero academia") {
+    } else if (searchAction.toLowerCase() === "the godfather") {
         window.open("../anime-seasons/my-hero-academia.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "naruto") {
+    } else if (searchAction.toLowerCase() === "john wick") {
         window.open("../anime-seasons/naruto.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "bleach") {
+    } else if (searchAction.toLowerCase() === "scream (2022)") {
         window.open("https://www4.gogoanime.cm/category/bleach", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "seven deadly sins") {
+    } else if (searchAction.toLowerCase() === "shaolin soccer") {
         window.open("../anime-seasons/the_seven_deadly_sins", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "vinland saga") {
+    } else if (searchAction.toLowerCase() === "kingsman: the secret service") {
         window.open("https://www1.gogoanime.pe/category/vinland-saga", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "bungou stray dogs") {
+    } else if (searchAction.toLowerCase() === "django unchained") {
         window.open("../anime-seasons/bungou-stray-dogs.html", "_self");
 
 
