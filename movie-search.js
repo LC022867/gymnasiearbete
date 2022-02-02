@@ -23,7 +23,7 @@ const movie = [
     { name: 'harry potter' },
     { name: 'rambo first blood' },
     { name: 'godzilla vs kong' },
-    { name: 'tower of god' },
+    { name: 'the conjuring' },
     { name: 'candyman' },
     { name: 'welcome to the jungle' },
     { name: 'rush hour' },
@@ -113,191 +113,191 @@ function openPage(){
 
 
     } else if (searchAction.toLowerCase() === "intersteller") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+        window.open("https://ww2.m4ufree.com/watch-w8oa-interstellar-2014-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "the godfather") {
-        window.open("../anime-seasons/my-hero-academia.html", "_self");
+        window.open("https://ww2.m4ufree.com/watch-wtt9-the-godfather-1972-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "john wick") {
-        window.open("../anime-seasons/naruto.html", "_self");
+        window.open("https://ww2.m4ufree.com/watch-t8fa-john-wick-2014-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "scream (2022)") {
-        window.open("https://www4.gogoanime.cm/category/bleach", "_self");
+        window.open("https://ww2.m4ufree.com/watch-y0988-scream-2022-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "shaolin soccer") {
-        window.open("../anime-seasons/the_seven_deadly_sins", "_self");
+        window.open("https://ww2.m4ufree.com/watch-o6edb-shaolin-soccer-2001-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "kingsman: the secret service") {
-        window.open("https://www1.gogoanime.pe/category/vinland-saga", "_self");
+        window.open("https://ww2.m4ufree.com/watch-wt9t-kingsman-the-secret-service-2015-movie-online-free-m4ufree.html", "_self");
 
 
     } else if (searchAction.toLowerCase() === "django unchained") {
-        window.open("../anime-seasons/bungou-stray-dogs.html", "_self");
+        window.open("https://ww2.m4ufree.com/watch-t978-django-unchained-2012-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "shield hero") {
-        window.open("https://www4.gogoanime.cm/category/tate-no-yuusha-no-nariagari", "_self");
+    } else if (searchAction.toLowerCase() === "eternals") {
+        window.open("https://ww2.m4ufree.com/watch-y00d6-eternals-2021-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "demon slayer") {
-        window.open("../anime-seasons/demon_slayer.html", "_self");
+    } else if (searchAction.toLowerCase() === "titanic") {
+        window.open("https://ww2.m4ufree.com/watch-ad0-titanic-1997-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "one punch man") {
-        window.open("../anime-seasons/one-punch-man.html", "_self");
+    } else if (searchAction.toLowerCase() === "the matrix") {
+        window.open("https://ww2.m4ufree.com/watch-wo9w-the-matrix-1999-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "hunter x hunter") {
-        window.open("https://www1.gogoanime.pe/category/hunter-x-hunter-2011", "_self");
+    } else if (searchAction.toLowerCase() === "enchanto") {
+        window.open("https://ww2.m4ufree.com/watch-y0tf0-encanto-2021-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "samurai champlo") {
-        window.open("https://www4.gogoanime.cm/category/samurai-champloo", "_self");
+    } else if (searchAction.toLowerCase() === "joker") {
+        window.open("https://ww2.m4ufree.com/watch-o9y66-joker-2019-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "one piece") {
-        window.open("https://www4.gogoanime.cm/category/one-piece", "_self");
+    } else if (searchAction.toLowerCase() === "avatar") {
+        window.open("https://ww2.m4ufree.com/watch-b8e-avatar-2009-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "jojos bizzare adventures") {
-        window.open("../anime-seasons/jojos-bizzare-adventure.html", "_self");
+    } else if (searchAction.toLowerCase() === "the karate kid") {
+        window.open("https://ww2.m4ufree.com/watch-ta8e-the-karate-kid-2010-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "baki") {
-        window.open("../anime-seasons/baki.html", "_self");
+    } else if (searchAction.toLowerCase() === "1917") {
+        window.open("https://ww2.m4ufree.com/watch-oa0b8-1917-2019-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "jujutsu kaisen") {
-        window.open("https://www4.gogoanime.cm/category/jujutsu-kaisen-tv", "_self");
+    } else if (searchAction.toLowerCase() === "avengers: infinity war") {
+        window.open("https://ww2.m4ufree.com/watch-oyiob-avengers-infinity-war-2018-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "violet evergarden") {
-        window.open("../anime-seasons/violet-evergarden.html", "_self");
+    } else if (searchAction.toLowerCase() === "ratatouille") {
+        window.open("https://ww2.m4ufree.com/watch-w6f7-ratatouille-2007-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "fire force") {
-        window.open("../anime-seasons/fire_force.html", "_self");
+    } else if (searchAction.toLowerCase() === "the lion king") {
+        window.open("https://ww2.m4ufree.com/watch-i6e0-the-lion-king-1994-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "tokyo revengers") {
-        window.open("https://www4.gogoanime.cm/category/tokyo-revengers-uncensored", "_self");
+    } else if (searchAction.toLowerCase() === "black panther") {
+        window.open("https://ww2.m4ufree.com/watch-wob7-black-panther-2018-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "twin star exorcist") {
-        window.open("https://www4.gogoanime.cm/category/sousei-no-onmyouji", "_self");
+    } else if (searchAction.toLowerCase() === "xmen origins: wolverine") {
+        window.open("https://ww2.m4ufree.com/watch-96e-xmen-origins-wolverine-2009-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "fate stay night") {
-        window.open("../anime-seasons/fate-stay.html", "_self");
+    } else if (searchAction.toLowerCase() === "harry potter") {
+        window.open("https://ww2.m4ufree.com/watch-w8ab-harry-potter-and-the-chamber-of-secrets-2002-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "rent a girlfriend") {
-        window.open("https://www1.gogoanime.pe/category/kanojo-okarishimasu", "_self");
+    } else if (searchAction.toLowerCase() === "rambo first blood") {
+        window.open("https://ww2.m4ufree.com/watch-b7e-rambo-first-blood-1982-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "love is war") {
-        window.open("../anime-seasons/love_is_war.html", "_self");
+    } else if (searchAction.toLowerCase() === "godzilla vs kong") {
+        window.open("https://ww2.m4ufree.com/watch-oe6ii-godzilla-vs-kong-2021-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "tower of god") {
-        window.open("https://www4.gogoanime.cm/category/kami-no-tou", "_self");
+    } else if (searchAction.toLowerCase() === "the conjuring") {
+        window.open("https://ww2.m4ufree.com/watch-w60c-the-conjuring-2013-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "mob psycho 100") {
-        window.open("../anime-seasons/mob-psycho.html", "_self");
+    } else if (searchAction.toLowerCase() === "candyman") {
+        window.open("https://ww2.m4ufree.com/watch-ofa8w-candyman-2021-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "haikyuu") {
-        window.open("../anime-seasons/haikyuu.html", "_self");
+    } else if (searchAction.toLowerCase() === "welcome to the jungle") {
+        window.open("https://ww2.m4ufree.com/watch-w8cy-jumanji-welcome-to-the-jungle-2017-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "promised neverland") {
-        window.open("https://www4.gogoanime.cm/category/yakusoku-no-neverland", "_self");
+    } else if (searchAction.toLowerCase() === "rush hour") {
+        window.open("https://ww2.m4ufree.com/watch-7f6-rush-hour-1998-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "sword art online") {
-        window.open("../anime-seasons/sword_art_online.html", "_self");
+    } else if (searchAction.toLowerCase() === "vanguard") {
+        window.open("https://ww2.m4ufree.com/watch-ocdda-vanguard-2020-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "the god of high school") {
-        window.open("https://www1.gogoanime.pe/category/the-god-of-high-school", "_self");
+    } else if (searchAction.toLowerCase() === "annabelle") {
+        window.open("https://ww2.m4ufree.com/watch-c78-annabelle-2014-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "steins gate") {
-        window.open("../anime-seasons/steins-gate.html", "_self");
+    } else if (searchAction.toLowerCase() === "deadpool") {
+        window.open("https://ww2.m4ufree.com/watch-ta9o-deadpool-2016-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "charlotte") {
+    } else if (searchAction.toLowerCase() === "men in black") {
         window.open("https://www4.gogoanime.cm/category/charlotte", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "dragon ball") {
-        window.open("../anime-seasons/dragon_ball.html", "_self");
+    } else if (searchAction.toLowerCase() === "suicide squad") {
+        window.open("https://ww2.m4ufree.com/watch-ta96-suicide-squad-2016-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "eightysix") {
-        window.open("../anime-seasons/eightysix.html", "_self");
+    } else if (searchAction.toLowerCase() === "the martian") {
+        window.open("https://ww2.m4ufree.com/watch-t8cw-the-martian-2015-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "konosuba") {
-        window.open("../anime-seasons/konosuba.html", "_self");
+    } else if (searchAction.toLowerCase() === "saw 2004") {
+        window.open("https://ww2.m4ufree.com/watch-w69f-saw-2004-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "assassination classroom") {
-        window.open("../anime-seasons/assassination-classroom.html", "_self");
+    } else if (searchAction.toLowerCase() === "skyfall") {
+        window.open("https://ww2.m4ufree.com/watch-wy6o-skyfall-2012-007-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "erased") {
-        window.open("https://www1.gogoanime.pe/category/boku-dake-ga-inai-machi", "_self");
+    } else if (searchAction.toLowerCase() === "now you see me") {
+        window.open("https://ww2.m4ufree.com/watch-o7bw7-now-you-see-me-2013-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "bunny girl senpai") {
-        window.open("../anime-seasons/bunny_girl_senpai.html", "_self");
+    } else if (searchAction.toLowerCase() === "the hunger games") {
+        window.open("https://ww2.m4ufree.com/watch-ac9-the-hunger-games-2012-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "tokyo ghoul") {
-        window.open("../anime-seasons/tokyo-ghoul.html", "_self");
+    } else if (searchAction.toLowerCase() === "the maze runner") {
+        window.open("https://ww2.m4ufree.com/watch-wwdd-the-maze-runner-2014-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "dr stone") {
-        window.open("../anime-seasons/dr-stone.html", "_self");
+    } else if (searchAction.toLowerCase() === "forrest gump") {
+        window.open("https://ww2.m4ufree.com/watch-iyct-forrest-gump-1994-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "nisekoi") {
-        window.open("../anime-seasons/nisekoi.html", "_self");
+    } else if (searchAction.toLowerCase() === "the iron giant") {
+        window.open("https://ww2.m4ufree.com/watch-9yw-the-iron-giant-1999-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "seraph of the end") {
-        window.open("../anime-seasons/seraph-of-the-end.html", "_self");
+    } else if (searchAction.toLowerCase() === "mice and men") {
+        window.open("https://ww2.m4ufree.com/watch-ceo-of-mice-and-men-1992-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "cowby bebop") {
-        window.open("https://www1.gogoanime.pe/category/cowboy-bebop", "_self");
+    } else if (searchAction.toLowerCase() === "inception") {
+        window.open("https://ww2.m4ufree.com/watch-w979-inception-2010-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "death note") {
-        window.open("https://www1.gogoanime.pe/category/death-note", "_self");
+    } else if (searchAction.toLowerCase() === "nobody") {
+        window.open("https://ww2.m4ufree.com/watch-oe70e-nobody-2021-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "vivy") {
-        window.open("https://www1.gogoanime.pe/category/vivy-fluorite-eyes-song", "_self");
+    } else if (searchAction.toLowerCase() === "brightburn") {
+        window.open("https://ww2.m4ufree.com/watch-o8odw-brightburn-2019-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re ") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "man of steel") {
+        window.open("https://ww2.m4ufree.com/watch-76c-man-of-steel-2013-movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "rocky") {
+        window.open("https://ww2.m4ufree.com/watch-atf-rocky-1976--movie-online-free-m4ufree.html", "_self");
 
 
-    } else if (searchAction.toLowerCase() === "re zero") {
-        window.open("../anime-seasons/re_zero.html", "_self");
+    } else if (searchAction.toLowerCase() === "edge of tomorrow") {
+        window.open("https://ww2.m4ufree.com/watch-b7y-edge-of-tomorrow-2014-movie-online-free-m4ufree.html", "_self");
 
 
     }

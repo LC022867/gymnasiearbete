@@ -123,18 +123,19 @@ nav ul a:hover {
     }
 
     /*fixa till navbarens position*/
+    /*
     .home {
-        margin-right: 20px;
+        margin-right: ;
     }
 
     .teams {
-        margin-right: 20px;
+        margin-right: 0;
     }
 
     .tier_list {
-        margin-right: 8px;
+        margin-right: 0;
     }
-
+    */
     /*fixa till navbarens position slut*/
 
     a.active {
@@ -148,7 +149,7 @@ nav ul a:hover {
     }
 
     #check:checked ~ ul {
-        left: -75%;
+        left: -76%;
         top: 10%;
     }
 }
