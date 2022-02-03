@@ -36,7 +36,8 @@
     background: rgb(51, 51, 51);
     padding: 20px 40px;
     outline: none;
-    color: #edb725;
+    color: #fac413;
+    caret-color: #edb725;
     transition: 0.5s;
 }
 
