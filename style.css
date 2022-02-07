@@ -191,6 +191,10 @@ footer .copyright p {
 
 footer .privacy {
     width: 14%;
+    
+}
+footer .privacy a{
+    color: var(--dark);
 }
 
 footer .line1,
