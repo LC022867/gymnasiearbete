@@ -95,7 +95,7 @@ nav ul a:hover {
         width: 100%;
         height: 100vh;
         background: var(--orange);
-        top: 50px;
+        top: 0;
         left: -100%;
         text-align: end;
         transition: 1s all;
@@ -118,6 +118,7 @@ nav ul a:hover {
     nav ul li a {
         font-size: 16px;
         margin-right: 5px;
+        margin-top: 4%;
     }
 
     /*fixa till navbarens position*/
@@ -148,7 +149,7 @@ nav ul a:hover {
 
     #check:checked ~ ul {
         left: -76%;
-        top: 10%;
+        top: 0;
     }
 }
 
