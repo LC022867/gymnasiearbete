@@ -8,7 +8,6 @@
 }
 
 /***************************NAV BAREN*****************************/
-
 /*Organiserade färg variabel*/
 :root {
     --dark: #181a22;
@@ -18,7 +17,6 @@
 }
 
 /*Organiserade färg variabel slut*/
-
 
 nav {
     background: var(--orange);
@@ -401,6 +399,8 @@ footer .icons .icon {
     section {
         height: auto;
         flex-direction: column;
+        /*footer to the bottom*/
+        min-height: calc(100vh- 211px - 58px);
     }
 
     /*Bilderna ska vara responsive*/
