@@ -397,7 +397,6 @@ footer .icons .icon {
     /*SECTION FÖR NEWS FÖR ALLA*/
     /*större section för att få plats med bilderna och texterna*/
     section {
-        height: auto;
         flex-direction: column;
         /*footer to the bottom*/
         min-height: calc(100vh- 211px - 58px);
